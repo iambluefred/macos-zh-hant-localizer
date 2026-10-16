@@ -1,0 +1,5 @@
+.DS_Store
+.venv/
+__pycache__/
+# 產生的翻譯含有該 App 作者的內容，不放進版本控制
+output/
